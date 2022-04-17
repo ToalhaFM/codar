@@ -1,0 +1,106 @@
+html,body, div {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+div { 
+    background: white;
+    height: 100%;
+}
+/*Menu definir como fixo altera*/
+.menu-fixo {
+    background-color: white;
+    width: 100%;
+    height: 70px;
+    position: fixed;
+    top: 0;
+}
+/*botão codar*/
+.alterar-codar {
+    font-size: 40px;
+    margin-left:  110px;
+    color: red;
+    border: transparent;
+    background-color: transparent;
+}
+/*ponto final do botão codar*/
+.ponto-codar {
+    font-size: 40px;
+    border: transparent;
+    background-color: transparent;
+}
+/*definindo desegn dos botões Inicio, Serviços e Contato*/
+.primeiros-menus {
+    font-size: 20px;
+    position: relative;
+    left: 400px;
+    top: 5px;
+    margin-left: 20px;
+    border: transparent;
+    background-color: white;
+}
+/*definindo design do botão login*/
+.botao-login {
+    background-color: red;
+    color: white;
+    border: transparent;
+    position: relative;
+    left: 429px;
+    top: 5px;
+    margin-left: 20px;
+    height: 40px;
+    width: 120px;
+    border-radius: 15px;
+}
+/*definir tamanho da imagem video_call.png*/
+#video_call {
+    height: 350px;
+    width: 350px;
+    float: left;
+    margin-top: 120px;
+    margin-left: 210px;
+}
+/*Especificação de um texto acima*/
+#text1 {
+    width: 13cm;
+    height: 7cm;
+    background-color: white;
+    font-family: sans-serif;
+    float: right;
+    margin-top: -15%;
+    margin-left: 60%;
+}
+/*texto na cor vermelha*/
+h1 {
+    color: red;
+    font-size: 45px;
+    font-family: sans-serif;
+    margin-top: -5px;
+    margin-left: 20px;
+}
+h3 {
+    margin-left: 20px;
+    margin-top: -275px;
+}
+/*botão solicitado*/
+#solicitado {
+    background-color: red;
+    color: white;
+    border: transparent;
+    height: 35px;
+    width: 255px;
+    border-radius: 15px;
+    margin-left: 20px;
+}
+ul {
+    margin-top: 400px;
+    margin-left: -650px;
+}
+
+#coding-image {
+    height: 350px;
+    width: 350px;
+    float: right;
+    margin-top: -80px;
+    margin-right: 150px;
+}
